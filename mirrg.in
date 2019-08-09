@@ -1,0 +1,22 @@
+*resolving power                    *spectrometer length(m) 
+ 3000	                             2.5                    
+*grating spacing density(g/mm)      *blazing wavelength(A)
+ 2400                                100
+*source size(micro)                 *detector spatial resolution(micro)
+ 70				     30
+*diffraction order                  *minimum wavelength(A)
+ -1                                  80
+*mirror size_x(cm)                  *mirror size_y(cm)
+ 10                                  10 
+*grating size_x(cm)                 *grating size_y(cm) 
+ 5.                                  10.
+*detector size_x(cm)                *detector size_y(cm)
+ 3.				     50                 
+*mirror-grating separation(cm)     
+ 10
+*grasp file                         *calibration file
+ grasp_mg.r                          calib_mg.r
+*resolving power file               *image file prefix
+ respower_mg.r                       image_mg
+*parameter file
+ spect_mg.par

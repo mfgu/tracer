@@ -1,0 +1,13 @@
+CrystalRadius	144.4
+Crystal2d	4.56216
+CrystalWidth	6.4
+CrystalHeight	2.7
+LambdaCenter	3.9494
+SourceDistance 	305.0
+TorusMinor	20.0
+DetectorWidth	100.0
+DetectorHeight	100.0
+Lambda		3.9794
+NumRays	5000
+#NumRays	1
+ImageFile	b.txt
